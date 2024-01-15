@@ -2,7 +2,8 @@
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+You can find modules and projects for AE 311 (Spring 2024) posted here. The Python code is written inside Jupyter
+Notebooks. Feel free to press the button above to move to the notebook.
 
 ## ✨ Try it in your browser ✨
 
